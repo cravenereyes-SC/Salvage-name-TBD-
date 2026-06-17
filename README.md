@@ -1,7 +1,7 @@
 # Salvage-name-TBD-
 A simple or complex site to track all things salvage(Star Citizen)
 Planned Features:
-  - Salvage Session
+** Salvage Session
       - expenses
           - fuel
           - refining
@@ -15,12 +15,13 @@ Planned Features:
           - Componants
           - contracts
        
-- Main profile
+** Main profile
     - user ID
     - total profits
     - total losses
     - groups
+    
   *More to come*
 
 
-  Inspire by regolith 
+  **Inspired by regolith** 
